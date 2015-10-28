@@ -1,0 +1,14 @@
+
+
+ 1/ - le jeu utilisera une conception réel . 
+
+ 2/ - les messages entre les joueurs doivent être échanger à l'aide de l'arbitre.
+
+ 3/-  L'arbitre qui doit choisir l'intervale pour éliminer que l'un des joueurs saisie un intervale infini
+
+ 4/- Si l'un des joueurs triche, le jeu sera terminer.
+
+ 5/-  L'arbitre doit gérer la cordination des tours des joueurs.
+ 
+
+ Joueur - 
